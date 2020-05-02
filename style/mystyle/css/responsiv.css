@@ -1,0 +1,592 @@
+ 
+ @media (max-width:2560px) and (min-width:1532px) {
+    .backround-img{
+        background-color: #DDECF3;
+        background-image: none;
+    }
+    .biblb{
+        display: none;
+    }
+ }  
+ 
+ @media (max-width:1562px) and (min-width:1400px) {
+    .biblb{
+        height: 450px!important;
+    }
+
+ }
+@media (max-width:1532px) and (min-width:1300px) {
+    
+
+
+.search-input{
+    margin-left: 90px;
+    width: 200px;
+}
+.search-button{
+    right: 35%;
+
+}
+.mile {
+    font-size: 63px;
+    line-height: 97px;
+}
+.star-shop {
+    margin-left: 52px;
+
+}
+.kart-div {
+    width: 596px;
+    height: 306px;
+    margin-left: 0px;
+    margin-top: 30px;
+}
+.place-div {
+    height:654px;
+}
+
+
+.star-button{
+    padding: 15px 30px;
+}
+.shop-button{
+    padding: 15px 55px;
+}
+} 
+
+@media only screen and (max-width: 1024px) {
+    .shop-button{
+        padding: 12px 45px;
+    }
+    .star-button{
+        padding: 12px 25px;
+    } 
+    .place-div{
+        height: 570px;
+    }
+    .azal-img-div {
+        height: 320.21px;
+    }
+    .tetbiq-all-div{
+        width: 219px;
+    }
+    .kreslo-mil{
+        right:71px ;
+        width:72px ;
+        height:57px ;
+        top:19px
+    }
+    .search-input{
+        width: 135px;
+    }
+    .search-button{
+        right: 153px;
+    }
+    .kampaniya-next{
+        display: none!important;
+    }
+    .shop-plus{
+        border: 1px solid grey;
+        padding: 0 10px!important;
+        color: grey!important;
+    }
+    .shop-minus{
+       border: 1px solid grey;
+       padding: 0 10px!important;
+       color: grey!important;
+    }
+  }
+@media only screen and (max-width:768px) {
+    .menu-link{
+        font-size: 12px;
+    }
+    .star-a{
+        padding-left: 0;
+        margin-left: 20px;
+    }
+        .star-button{
+        padding: 12px 20px;
+    }
+    .search-input{
+        display: none;
+    }
+    .mile{
+        font-size: 40px;
+    }
+    .kart-div{
+        width: 341px;
+        height: 202px;
+        margin-left: 10px;
+        margin-top: 5px;
+    }
+    .place-div{
+        height: 470px;
+        width: 100%;
+    }
+    
+    .azal-nedir{
+        font-size: 60px;
+        line-height: 85px;
+    }
+    .azal-img-div {
+        height: 260.21px;
+    }
+    .azal-img-div{
+        
+        width: 100%;
+    }
+    .section-3-p-div{
+        padding-top: 80px;
+        padding-bottom: 10px;
+
+    }
+    .section-app-1 {
+        width: 40%;
+    }
+    .section-app-2{
+        width: 40%;
+    }
+    .kreslo-left{
+        left: 10px;
+        top: 160px;
+        width: 40px;
+    }
+    .kreslo-right{
+        right: 40px;
+        top: 160px;
+        width: 40px;
+    }
+    .strelka-div {
+        width: 113px;
+        height: 97px;
+    }
+    .section-8-div{
+        height: 350px;
+    }
+    .kreslo-div{
+        top: 65px;
+        left: -15px;
+        height: 280px;
+    }
+    .kreslo-mil{
+        right:47px ;
+        width:72px ;
+        height:57px ;
+        top: 11px;
+       
+    }
+    .krilo-img{
+        width: 30%;
+
+    }
+    .footer-img-div{
+        width: 91%;
+        height: 268px;
+        position: absolute;
+        top: -80px;
+    }
+    .footer-apple-img {
+        width: 60%;
+
+    }
+    .footer-tel {
+        font-size: 12px;
+
+  }
+  .qayda{
+      font-size: 12px;
+  }
+  .kampaniya-next{
+    display: none!important;
+}
+
+
+}
+@media (max-width:1000px) and (min-width:768px) {
+    .kampaniya-ic-div {
+        height: 144px;
+    }
+    .kampaniya-back {
+        height: 144px;
+    }
+    .seyehat-p {
+        font-size: 10px;
+    }
+    .li-p{
+        font-size: 10px;
+    }
+    .serler-kamp{
+        font-size: 15px;
+    }
+    .xəritədə-göstərmək {
+        top: 123px;
+    }
+ } 
+ @media (max-width:767px) and (min-width:300px) {
+.srler-margin{
+    margin-top: 169px;
+
+ }
+ .biblb{
+     display: none;
+ }
+ .logo-mob{
+    display: block;
+    margin-left: 80px;
+    margin-right:80px;
+    margin-top: 7px;
+}
+.azal-nedir-div{
+    display: none;
+}
+.azal-img-div {
+    display: none;
+}
+.nav-non{
+    display: none;
+}
+.sing-in-button {
+    display: none;
+}
+.search-button{
+    right: 98px;
+    height: 34px;
+}
+.search-input {
+    display: block;
+    width: 237px;
+    padding: 3px 0;
+    margin-top: 3px;
+}
+
+.humbur-nav{
+    display: block!important;
+    margin-top: 8px;
+    color: #008CCC;
+    font-size:30px;
+    cursor:pointer;
+}
+.logo-img-div{
+    display: none;
+}
+.menu-sing-search{
+    margin-top: 10px;
+}
+.shop-product-name {
+    padding: 5px 0;
+}
+ } 
+
+  @media (max-width:425px) and (min-width:320px) {
+ 
+    .img-div-big {
+       
+        height: 160px;
+    }
+    
+    .mile {
+        padding-top: 2px;
+        padding-left: 5px;
+        font-size: 30px;
+        margin-bottom: 0;
+    }
+    .star-a{
+         margin-left: 5px;
+    }
+    .star-icon {
+        width: 20px;
+        height: 20px;
+    }
+    .shop-button {
+        padding: 12px 38px;
+    }
+    .star-button {
+        padding: 12px 10px;
+    }
+    .kart-div{
+        margin-left: 0;
+        width: 291px;
+        height: 156px;
+    }
+      .place-mobile{
+          display: none;
+      }
+      .backround-img{
+          background-image: none;
+          background-color: #DDECF3;
+      }
+      .azal-nedir-div{
+        padding-top: 10px;
+      }
+      .azal-nedir{
+        font-size: 36px;
+        line-height: 53px;
+    }
+      .azal-img-div {
+        margin-top: 10px;
+        height: 238.21px;
+      }
+      .section-3-div {
+        padding-top: 20px;
+        height: 237px;
+    }
+    .section-3-p {
+        font-size: 17px;
+        line-height: 31px;
+    }
+    .section-3-p-2 {
+        font-size: 12px;
+        line-height: 28px;
+    }
+    .section-app-1 {
+        width: 45%;
+    }
+    .section-app-2{
+        width: 45%;
+    }
+    .section-3-p-div{
+        padding-top: 30px;
+        padding-bottom: 10px;
+
+    }
+    .tetbiqin-istifadesi {
+        padding-top: 30px;
+        font-size: 25px;
+    }
+    .pad-mob{
+        padding-right: 40px;
+    }
+    .tetbiq-all-div{
+        width: 300px;
+        height: 370px;
+        margin-right: 0;
+    }
+    .slide-text{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .section-4-slide-1{
+        height: 250px;
+    }
+    .next-tetbiq{
+        display: none!important;
+    }
+    .section-5-p {
+
+        font-size: 20px;
+        line-height: 60px;
+        margin-top: 7px;
+    }
+    .butun-kamp {
+        font-size: 10px;
+        top: 28px;
+        right: 12px;
+    }
+    .slick-dotted.slick-slider {
+        margin-top: -5px;
+        margin-bottom: 13px;
+    }
+    .next-button{
+        display: none!important;
+
+    }
+    .prev-button{
+        display: none!important;
+    }
+    .section-6-10 {
+
+        font-size: 123px;
+        line-height: 180px;
+        margin-top: -18px;
+        height: 140px;
+       
+    }
+    .plus-div {
+        top: 5px;
+        padding-right: 25px;
+    }
+    
+    .previous-s-teref{
+        display: none!important;
+    }
+    .next-s-teref {
+        display: none!important;
+    }
+    .slick-terefdas-div{
+        width: 156px;
+        margin-right: 0;
+    }
+    .terefdas-i{
+        height: 45px;
+    }
+    .kreslo-div{
+        height: 250px;
+        top: 56px;
+        left: -15px;
+    }
+    .section-8-div{
+        height: 300px;
+    }
+    .kreslo-left{
+        top: 131px;
+    }
+    .kreslo-right{
+        top: 131px;
+    }
+    .krilo {
+        height: 147px;
+        margin-top: 0;
+    }
+    .kreslo-mil{
+        right: 61px;
+        top:7px;
+        height: 52px;
+        width: 61px;
+    }
+
+    .strelka-div {
+        width: 104px;
+        height: 90px;
+        position: absolute;
+        top: 120px;
+    }
+    .krilo-img {
+        width: 40%;
+    }
+    .online{
+        margin-right: 25px;
+        line-height: 31px;
+    }
+    .shop {
+        font-size: 65px;
+        margin-right: 25px;
+    }
+    .footer-apple-img {
+        width: 40%;
+    }
+    .footer-apple {
+        height: 40px;
+    }
+    .aplication-title{
+        margin-top: 20px;
+    }
+    .qayda {
+        line-height: 24px;
+    }
+    .footer-img-div{
+        display: none;
+    }
+    .section-7-backround{
+        display: none;
+    }
+    .footer-apple{
+        width: 49%;
+    }
+    .footer-apple-img{
+        width: 80%;
+    }
+    /* kampaniya */
+    .kampaniya-slayt-up{
+        padding-left: 55px;
+        font-size: 25px;
+        transform: translate(10px ,50px);
+        top: 0;
+        
+    }
+    .kampaniya-it-work{
+        padding-left: 70px;
+        transform: translate(10px ,75px);
+        top: 0;
+
+    }
+    .read-more{
+       margin-left: 110px;
+       transform: translate(10px ,115px);
+       top: 0;
+       padding: 5px 10px ;
+       font-size: 15px;
+    }
+    .kampaniya-line{
+        margin-left: 69px;
+        transform: translate(10px ,110px);
+        top: 0;
+    }
+
+}
+@media only screen and (max-width: 1155px) {
+    .sasass[type=text] {
+        width: 170px;
+       
+    }
+   
+}
+@media only screen and (max-width: 1095px) {
+    .sasass[type=text] {
+        width: 140px;
+       
+    }
+   
+}
+@media only screen and (max-width: 1005px) {
+    .sasass[type=text] {
+        width: 120px;
+       
+    }
+   
+}
+@media only screen and (max-width: 950px) {
+    .sasass[type=text] {
+       display: none;
+       
+    }
+   
+}
+@media only screen and (max-width: 605px) {
+    .sasass[type=text] {
+        width: 197px;
+        display: block;
+       
+    }
+    .kampaniya-title-h1 {
+
+        padding-top: 30px;
+
+    }
+    .sebeke-all{
+        margin: 0;
+    }
+    .kampaniya-div{
+        height: 191px;
+
+    }
+   
+}
+@media only screen and (max-width: 414px) {
+    .search-button{
+        right: 89px;
+        height: 34px;
+    }
+    .search-input{
+        width: 233px;
+    }
+    
+    
+   
+}
+@media only screen and (max-width: 375px) {
+    .search-button{
+        right: 53px;
+        height: 34px;
+    }
+   
+}
+
+@media only screen and (max-width: 360px) {
+    
+    .mobile-az{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    
+}
+
